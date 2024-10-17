@@ -1,0 +1,63 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "category": "JavaScript",
+        "difficulty": "Easy",
+        "question": "What does 'DOM' stand for in web development?",
+        "options": [
+          "Document Object Model",
+          "Digital Ordinance Model",
+          "Display Object Management",
+          "Document Ordinance Mechanism"
+        ],
+        "answer": "Document Object Model",
+        "explanation": "DOM stands for Document Object Model, which represents the structure of a web document."
+      },
+     
+      {
+        "id": 3,
+        "category": "CSS",
+        "difficulty": "Medium",
+        "question": "Which property is used in CSS to change the text color of an element?",
+        "options": [
+          "background-color",
+          "color",
+          "font-color",
+          "text-color"
+        ],
+        "answer": "color",
+        "explanation": "In CSS, the 'color' property is used to specify the text color of an element."
+      },
+      {
+        "id": 4,
+        "category": "JavaScript",
+        "difficulty": "Medium",
+        "question": "Which method is used to add an element at the end of an array in JavaScript?",
+        "options": [
+          "push()",
+          "pop()",
+          "shift()",
+          "unshift()"
+        ],
+        "answer": "push()",
+        "explanation": "The push() method adds a new element to the end of an array and returns the new length of the array."
+      },
+      
+      {
+        "id": 6,
+        "category": "CSS",
+        "difficulty": "Medium",
+        "question": "Which of the following is a valid way to center a block element horizontally using CSS?",
+        "options": [
+          "margin: 0 auto;",
+          "text-align: center;",
+          "display: block;",
+          "float: center;"
+        ],
+        "answer": "margin: 0 auto;",
+        "explanation": "Setting 'margin: 0 auto;' on a block element centers it horizontally within its container."
+      }
+    ]
+  }
+  
